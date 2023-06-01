@@ -9,7 +9,7 @@
 - 🥰 I'm interested in Tech Related Docs  
   
 
-- 🌱 I’m currently learning JavaScript and React.JS  
+- 🌱 I’m a frontend developer and technical writter.  
   
 
 - ⚡ How to reach me
